@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahorgah
 - 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me @richkennybrown for all medias. 
 phone:(0549783787)
